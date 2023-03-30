@@ -99,3 +99,77 @@ conseguirmos evoluir o fluxo para algo mais linear como o exemplo abaixo:
 
 ![image](https://user-images.githubusercontent.com/52088444/228843083-805fa01f-f74a-421a-a7e5-9115ba873336.png)
 
+## Visualizando o throughput 
+
+![image](https://user-images.githubusercontent.com/52088444/228851060-eb72fba1-eeea-4593-90cd-8f8031f16426.png)
+Reto = 0
+Linhas quase sem diagonal, quer dizer que não tive entregas
+
+![image](https://user-images.githubusercontent.com/52088444/228851720-b416d87d-f2e4-4d3f-97e6-8df23c1d93c3.png)
+Baixo
+linhas com poucas inclinações baixo volume de entrega
+
+![image](https://user-images.githubusercontent.com/52088444/228852116-f153ff66-8830-47ff-89cf-4e0c4b77f8dc.png)
+Alto
+inclinação muito alta , alto volume de entrega
+
+![image](https://user-images.githubusercontent.com/52088444/228852503-45965de8-8ffc-43a8-a55a-e0f4302aa8c0.png)
+Nunca
+Pelo o cfd ser cumulativo ele nunca será dessa forma pois as histórias vão sempre somando e nunca diminuindo.
+
+
+Linha horizontal tempo
+Linha vertical quantidade de itens
+
+- Lead time conta do dia da criação até a entrega.
+- cicle tyme tempo de desenvolvimento
+
+## Cascata
+
+![image](https://user-images.githubusercontent.com/52088444/228856024-9dd50846-486b-4638-9194-ddcb343577c6.png)
+Uma fase só comçea após a outra ser concluída.
+pode ser um gargalo.
+
+## Observações
+
+- Quando uma fase fica sem tasks/histórias ela não é exibida no cfd
+- quando uma das cores deixa de aparecer no gráfico quer dizer que não foi feito a etapa
+
+
+![image](https://user-images.githubusercontent.com/52088444/228857953-aeb5bc4c-0429-4b76-b910-386489c0ec0e.png)
+
+Mesmo controle de wip, isso demonstra o CFD perfeito, baleia feliz, todas as faixas representadas, não ter linhas retas, ou seja maior eficiencia.
+
+## CFD de scrum 
+![image](https://user-images.githubusercontent.com/52088444/228858517-1cfb000c-da46-4349-a0df-e87a12f75b16.png)
+é visivel as Sprints, é mais escalado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
