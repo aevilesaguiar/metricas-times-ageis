@@ -144,8 +144,13 @@ Mesmo controle de wip, isso demonstra o CFD perfeito, baleia feliz, todas as fai
 ![image](https://user-images.githubusercontent.com/52088444/228858517-1cfb000c-da46-4349-a0df-e87a12f75b16.png)
 é visivel as Sprints, é mais escalado.
 
+-> Definition of Ready : um item só pode ser iniciado se ele for planejado e refinado.
 
+O CFD auxilia a analise, verifica os gargalos , analisa se estão ococrrendo gargalos, analises , planejamentos e outros.
 
+A melhor forma de analisar o CFD é abastecer o JIra.
+
+Com a métrica podemos tomar diversas decisões, como por exemplo ver se existem poucas histórias no backlog, já podemos acionar o PO, verificar se está ocorrendo teste, dependencias com outros times...
 
 
 
