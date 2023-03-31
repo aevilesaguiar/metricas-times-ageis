@@ -55,6 +55,15 @@ Este fluxo só consegue ser sustentado a longo prazo quando o cliente puxa valor
 Um fluxo estável de demandas junto de um fluxo estável de trabalho, gera um fluxo estável de entrega.
 
 
+Throughput Time (entendem como leadtime) o tempo que o item demora para ser produzido;
+No scrum não se usa leadtime apenas cycleTime.
+WIP quantidade trabalho estou produzindo, seja simultaneamente , numa faixa
+Cycle time quanto tempo um item demora numa faixa.
+
+
+
+
+
 
 
 
@@ -64,3 +73,5 @@ Um fluxo estável de demandas junto de um fluxo estável de trabalho, gera um fl
 ## Referencias
 
 - https://medium.com/@raphaelbatagini/upstream-e-downstream-no-kanban-d0d02c56f6b6#:~:text=O%20que%20%C3%A9%3F,de%20itens%20gerados%20no%20upstream.
+- https://www.objective.com.br/insights/metricas-ageis/
+- 
