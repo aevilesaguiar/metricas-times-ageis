@@ -25,7 +25,22 @@ Tempos de entrega (Cycle Time, Lead Time, Customer Lead Time)
 - Eficiência (O quanto tem de trabalho vs Lead Time)
 - Simulações Probabilísticas (Análise de Monte Carlo)
 
-##  Conceitos Básicos
+## O que podemos medir num time de desenvolvimento
 
+- quantidade de tarefas canceladas
+- quantidade de atividades concluídas
+- quantidade de atividades canceladas por tipo
+- tempo médio por etapa
+- quantidade de erros
+- lead time
+- cycle time
+
+
+## O que é métrica
+
+Métrica: Uma métrica é um número que representa a medida que você vai acompanhar para entender o que dá certo (ou não) no seu trabalho.uma interpretação de uma medida ou de um conjunto de medidas que você utiliza para orientar o seu projeto. Por exemplo, o registro de quantos casos de teste finalizaram com sucesso e quantos falharam são medidas.Por exemplo, uma métrica pode monitorar o tráfego do site em comparação com uma meta de tráfego que sua área de marketing tem. Assim, exemplos de métricas são o número de acessos, a quantidade de usuários únicos e o tempo de permanência nas páginas. Métrica não é um dado é um entendimento. Métrica é uma forma de começarmos a enxergar um problema ou melhoria para darmos um diagnótico/melhorar processos.
+Ex: Taxa de entrada = 0,60/dia
+    Taxa de saida = 0,25/dia
+    
 
 
