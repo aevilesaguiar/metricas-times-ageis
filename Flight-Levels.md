@@ -59,3 +59,10 @@ Você precisa aplicar estas 5 atividades em todos os diferentes níveis de voo, 
 
 Assim, são gerados resultados de médio e longo prazo, levando a empresa a ser melhor adaptável às mudanças de mercado e ao consumidor. E,  ao alcançar isso, ela começa a ter verdadeiramente Business Agility.
 
+Observação:
+
+![image](https://user-images.githubusercontent.com/52088444/230354079-1678baf1-1192-40cc-9312-867f6e930358.png)
+
+Quando for fila eu uso "em"->fila  e em "para"-> touch ação do time  (boa prática)
+
+
