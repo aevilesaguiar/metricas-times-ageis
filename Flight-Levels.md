@@ -6,6 +6,15 @@ A partir do conceito Flight Level gerar a visão ideal para cada nível de gest�
 - Tático (estariam de fato as entregas que o time tem a fazer, épicos(feature), )
 - Operacional (tarefas, histórias, melhorias, débitos técnicos e bugs <- fazem parte do board operacional) 
 
+
+![image](https://user-images.githubusercontent.com/52088444/230352014-a2a4d54d-4c87-408c-aa13-d501ae492383.png)
+
+
+
+
+**O upstream são as etapas do fluxo de trabalho e tem como objetivo amadurecer e validar as ideias antes de aplicá-las ao mundo real**
+**O Downstream se refere a todas as etapas seguintes ao fluxo de trabalho que se inicia com o backlog de ideias do Upstream. Surgiu com o método Kanban.**
+
 Correlação entre esses níveis
 
 ## O Que é Flight Levels e como ele pode ajudar nos resultados
