@@ -2,9 +2,9 @@
 
 A partir do conceito Flight Level gerar a visão ideal para cada nível de gestão.
 
-- Nível estratégico (VPS (Vice-presidente) , Diretores)
-- Tático (estariam de fato as entregas que o time tem a fazer)
-- Operacional (tarefas, histórias, melhorias, débitos técnicos e bugs) 
+- Nível estratégico (VPS (Vice-presidente) , Diretores, stakeholders -> OKRS, iniciativas(frente que estamos puxando para atingir um objetivo))
+- Tático (estariam de fato as entregas que o time tem a fazer, épicos(feature), )
+- Operacional (tarefas, histórias, melhorias, débitos técnicos e bugs <- fazem parte do board operacional) 
 
 Correlação entre esses níveis
 
