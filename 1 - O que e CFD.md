@@ -1,5 +1,8 @@
 # CFD
 
+Para que serve o CFD?
+O cumulative flow diagram (CFD) é uma ferramenta analítica utilizada em metodologias ágeis para fornecer às equipes uma visualização do progresso geral do projeto. Isto é, a quantidade de tarefas em cada fase do fluxo de trabalho em um determinado período de tempo.
+
 Cumulative Flow Diagram 
 
 ![image](https://user-images.githubusercontent.com/52088444/228836970-11c532aa-70fb-483b-ac03-769cd16f374f.png)
