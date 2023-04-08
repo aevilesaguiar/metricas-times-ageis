@@ -2,6 +2,8 @@
 
 *SLA (ACORDO DE TEMPO DE SERVIÇO)
 
+O que são expectativas de nível de serviço (SLEs)?
+No Kanban, os SLEs podem ser definidos como previsões de metas de tempo de ciclo para quando um determinado serviço deve ser entregue a um cliente (interno ou externo). Em outras palavras, as Expectativas de Nível de Serviço representam o tempo máximo acordado que seus itens de trabalho devem gastar em um determinado processo. A ideia é rastrear se sua equipe está cumprindo seus SLEs e melhorar continuamente com base na análise de dados de tempo de ciclo anteriores. 
 
 Service Level Expectation (SLE) é uma expectativa de quando você espera receber esse serviço/produto.
 
