@@ -53,7 +53,8 @@ Além disso, os gerentes com acesso a plataformas de tecnologia em tempo real po
 Os números no nosso dia-a-dia podem nos revelar muitas coisas, e existem dois em especial que nos ajudam a verificar a saúde das entregas e a termos mais previsibilidade, eles são o Lead Time e o Throughput.
 
 
-
+O que é throughput no ágil?
+Throughput - Taxa de saída do volume de entregas por período de tempo. É uma métrica que demonstra a quantidade de atividades entregues em um determinado período de tempo (semana, mês). Com essa métrica, podemos mensurar a quantidade de trabalho que poderá ser entregue pelo time.
 
 
 
